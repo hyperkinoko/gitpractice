@@ -9,5 +9,5 @@ x = np.array([1,5,10])
 y=np.array([2,10,20])
 
 fig=plt.figure()
-plt.plot(x,y,color='red')
+plt.plot(x,y,color='blue')
 fig.savefig('test.png')
