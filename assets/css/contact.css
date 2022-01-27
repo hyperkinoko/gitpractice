@@ -1,0 +1,18 @@
+﻿
+
+.contacttable {
+	border: none;
+	margin: 50px auto;
+}
+
+.contacttable td {
+	padding: 10px;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
+	width: 720px;
+	height: 730px;
+	
+}

@@ -1,0 +1,35 @@
+﻿
+.newsbox {
+	display: flex;
+	width: auto;
+	margin: 15px 10%;
+	border: 0 solid #4f8bad;
+	background-color: antiquewhite;
+}
+
+.iconpict {
+	object-fit: contain;
+	float: left;
+	width: 150px;
+	height: auto;
+	margin: 15px;
+}
+
+
+
+span {
+	clear: both;
+}
+
+.clear {
+	clear: both;
+}
+
+p {
+	vertical-align: middle;
+}
+
+.newsmain {
+	color: #276793;
+	clear: both;
+}

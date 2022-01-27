@@ -1,0 +1,46 @@
+﻿
+.bioinfo {
+	margin: 10px 7% 50px;
+	font-family: Talking;
+}
+
+
+
+.biotitle {
+	margin: 40px 10% 20px;
+	font-size: 1.2em;
+}
+
+
+
+.bioline {
+	border-top: 2px dotted #8c8b8b;
+	margin: 50px 0; 
+}
+
+.content {
+	color: #276793;
+}
+
+.biomem {
+	color: #276793;
+	margin: 0 auto;
+}
+
+.biohistry {
+	padding: 20px auto;
+	color: #276793;
+	margin: 0 auto;
+}
+
+
+
+.biomem td {
+	vertical-align: top;
+	padding: 5px 15px;
+}
+
+.biohistry td {
+	padding: 5px;
+	vertical-align: top;
+}

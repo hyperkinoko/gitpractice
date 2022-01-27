@@ -1,0 +1,36 @@
+.song-makes {
+	display: block;
+	margin: 25px 5% 20px;
+	font-size: 100%;
+
+}
+
+.song-lyrics {
+	display: block;
+	margin: 30px 7% 35px;
+	font-size: 90%;
+}
+
+.song-song_content {
+	width: 80%;
+	margin: 30px auto 20px;
+	padding: 10px;
+	font-size: 80%;
+	border: 0 solid #4fffad;
+	background-color: azure;
+}
+
+.song-song_content_name {
+	font-size: 120%;
+	color: darkblue;
+	font-weight: bold;
+	font-family: "Osaka";
+	padding: 5px 10px;
+	margin-bottom: 10px;
+	background-color: cyan;
+}
+
+.ytb_Emb {
+	margin: 20px auto;
+	text-align: center;
+}
