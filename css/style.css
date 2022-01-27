@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.eien {
+    font-size: 100px;
+    text-align: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0;
+    list-style: none;
+}
+
+img{
+    margin-bottom: 40px;
+    width: 100vw;
+}
