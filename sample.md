@@ -6,6 +6,6 @@
 * githubの設定 -> ssh keyの登録
 * git clone
 * git add [-p] : -pをつけると事故なくaddできるのでおすすめ
-* git commit
+* git commit : --amendをつけると前のコミットメッセージを編集できます
 * git hoghoge
 
