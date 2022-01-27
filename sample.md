@@ -5,6 +5,7 @@
 学習内容
 * githubの設定 -> ssh keyの登録
 * git clone
-* git add
+* git add [-p] : -pをつけると事故なくaddできるのでおすすめ
 * git commit
-* git hohogeho
+* git hoghoge
+
